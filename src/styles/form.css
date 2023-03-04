@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.form-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+    background-color: #fff;
+    height: 100vh;
+    width: 100vw;
+}
+.text-color {
+    padding: 1rem;
+    border-radius: 1rem;display: flex;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: #fff;
+    
+  }
+  .text {
+    background-color: rgba(0, 0, 0, 0.2);
+    font-size: 1rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    display: flex;
+    color: #fff;
+    align-items: center;
+  }
+  input {
+    margin-left: 1rem;
+  }
+  
